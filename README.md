@@ -18,9 +18,9 @@ klkat8@yahoo.com
 <hr>
 
 ### Education !*!*
-✦ Carmichael Middle School | 2022-2025
-<br>
 ✦ Richland High School | 2025-Present. Class of 2029.
+<br>
+✦ Carmichael Middle School | 2022-2025
 <br>
 ✦ GPA: 3.9
 
