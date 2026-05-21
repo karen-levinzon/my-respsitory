@@ -35,7 +35,7 @@ klkat8@yahoo.com
 <br>
 ✦ Logic & Abstraction: ★ ★ ★ ★ ☆
 <br>
-✦ Teamwork: ★ ★ ★ ☆ ☆
+✦ Teamwork: ★ ★ ★ ★ ☆
 
 
 ### Experience !*!*
