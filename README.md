@@ -39,10 +39,10 @@ klkat8@yahoo.com
 
 
 ### Experience !*!*
-#### ✦ Computer Science Discoveries | Carmichael Middle School:
-Worked with both HTML and CSS coding languages in this class. Used both to create a webpage that included links, different text sizes, images, and other elements within the code, just as I wanted.
 #### ✦ AP Computer Science Principles | Richland High School:
 Learned how to use the JavaScript coding language and much more about key events, graphics, problem solving, debugging, logic, abstract, and so on. Used what I learned from this class to create two programs, both of them being simple games that still show what I learned, as I include key events, user input, output, loops, lists, sequencing, selection, and so on in my code, which helped me create my programs how I wanted to.
+#### ✦ Computer Science Discoveries | Carmichael Middle School:
+Worked with both HTML and CSS coding languages in this class. Used both to create a webpage that included links, different text sizes, images, and other elements within the code, just as I wanted.
 
 ### Activities !*!*
 ✦ Program Creating
