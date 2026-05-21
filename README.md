@@ -8,3 +8,43 @@ I have had experience with three coding languages: HTML, CSS, and JavaScript. I 
 
 ## Career Goals
 To combine my interests in computer science, design, and technology, I would like to pursue a career in graphic design. This is a way I can mix many of the things I have learned in computer science to make graphics however I may want! I could also create graphics that combine my other personal interests with my technology-related interests, such as my favorite music artists and bands, my favorite shows/movies, and so on, and this could make me enjoy the career much more, knowing I could mix in what I personally love to these other fields, which are also within my interest! I also want to pursue this career, as it could be a good opportunity to enhance my creativity and show it to others in the same field, allowing me to share my interests and see others' interests, creativity, and ideas! This is a career I would want to pursue in the technology field! :)
+
+<hr>
+
+### Karen Levinzon
+# RESUME
+### Contact Me !*!*
+klkat8@yahoo.com
+<hr>
+
+### Education !*!*
+✦ Carmichael Middle School | 2022-2025
+<br>
+✦ Richland High School | 2025-Present. Class of 2029.
+<br>
+✦ GPA: 3.9
+
+### Skills !*!*
+✦ JavaScript: ★ ★ ★ ★ ☆
+<br>
+✦ HTML + CSS: ★ ★ ★ ★ ☆
+<br>
+✦ Algorithm Development: ★ ★ ★ ★ ☆
+<br>
+✦ Event-driven Programming: ★ ★ ★ ★ ★ 
+<br>
+✦ Logic & Abstraction: ★ ★ ★ ★ ☆
+<br>
+✦ Teamwork: ★ ★ ★ ☆ ☆
+
+
+### Experience !*!*
+#### ✦ Computer Science Discoveries | Carmichael High School:
+Worked with both HTML and CSS coding languages in this class. Used both to create a webpage that included links, different text sizes, images, and other elements within the code, just as I wanted.
+#### ✦ AP Computer Science Principles | Richland High School:
+Learned how to use the JavaScript coding language and much more about key events, graphics, problem solving, debugging, logic, abstract, and so on. Used what I learned from this class to create two programs, both of them being simple games that still show what I learned, as I include key events, user input, output, loops, lists, sequencing, selection, and so on in my code, which helped me create my programs how I wanted to.
+
+### Activities !*!*
+✦ Program Creating
+<br>
+✦ Coding Exercises
