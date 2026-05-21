@@ -47,4 +47,6 @@ Learned how to use the JavaScript coding language and much more about key events
 ### Activities !*!*
 ✦ Program Creating
 <br>
+Webpage Creating
+<br>
 ✦ Coding Exercises
