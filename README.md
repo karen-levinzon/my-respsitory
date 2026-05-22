@@ -1,12 +1,12 @@
-# Get to Know: Karen Levinzon!
+# Get to Know: Karen Levinzon !*!*
 
-## About Me
+## About Me !*!*
 I am a 14-year-old freshman at Richland High School. I am in AP Computer Science Principles, and this class is interesting, as learning to create websites, programs, and even simple games with code is very interesting to me! I like how code can be used to create almost anything you want! Something else I would be interested in learning in the computer science/technology field is graphic design and/or video game design, as these are cool areas to learn, especially given my interest in designing and creating things my way. This was just a brief introduction to learn more about my interest in computer science, technology, and design! :)
 
-## My Skills
+## My Skills !*!*
 I have had experience with three coding languages: HTML, CSS, and JavaScript. I was also in a Computer Science Discoveries class at Charmichael Middle School, where I first started coding. This is where I learned to use both HTML and CSS, and I even created a simple webpage using what I learned! Now, here in high school, is where I learned to use JavaScript and gained a better understanding of graphics, iteration, selection, and so on, which I did not have before, since HTML and CSS used completely different things. With JavaScript, I have created two simple games using everything I have learned about this coding language! Some other things I have learned from both these coding languages include debugging, problem-solving, much more about the Internet, and so on. This is a little bit about the skills I have learned over the time I have been in computer science! :)
 
-## Career Goals
+## Career Goals !*!*
 To combine my interests in computer science, design, and technology, I would like to pursue a career in graphic design. This is a way I can mix many of the things I have learned in computer science to make graphics however I want! I could also create graphics that combine my other personal interests with my technology-related interests, such as my favorite music artists and bands, my favorite shows/movies, and so on, and this could make me enjoy the career much more, knowing I could mix in what I personally love to these other fields, which are also within my interest! I also want to pursue this career, as it could be a good opportunity to enhance my creativity and show it to others in the same field, allowing me to share my interests and see others' interests, creativity, and ideas! This is a career I would want to pursue in the technology field! :)
 
 <hr>
