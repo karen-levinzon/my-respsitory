@@ -36,7 +36,11 @@ klkat8@yahoo.com
 ✦ Logic & Abstraction: ★ ★ ★ ★ ☆
 <br>
 ✦ Teamwork: ★ ★ ★ ★ ☆
-
+<br>
+✦ Communication: ★ ★ ★ ★ ☆
+<br>
+✦ Time Management: ★ ★ ★ ★ ☆
+<br>
 
 ### Experience !*!*
 #### ✦ AP Computer Science Principles | Richland High School:
