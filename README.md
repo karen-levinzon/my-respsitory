@@ -63,3 +63,9 @@ Worked with both HTML and CSS coding languages in this class. Used both to creat
 <br>
 
 ✦ JavaScript: Created a second simple game, with this one involving audio files and images, along with the familiar iteration, selection statements, sequencing, arrays, and so on. I used all of this to create a "Guess the Song" game where players select one of six given genres to play with and confirm that the genre they chose is the one they want. After doing so, the game begins, and the user hears a song selected and played at random for 10 seconds before they must guess its title to move on to the next round. Whether they get the song title correct or incorrect, a message confirming their answer is printed to the console. Then they are asked whether they would like to continue playing with their currently selected genre or return to the "Select a Game Mode" screen to choose a new genre, after which the process repeats.
+
+### Accomplishments !*!*
+<img src="https://github.com/user-attachments/assets/d9379dd2-8857-4487-8270-8b11ecaca9a2" width = "350"/>
+<br>
+<img src="https://github.com/user-attachments/assets/7c6bb958-0c44-401e-9db2-2f9d700fa4ce" width = "350"/>
+
