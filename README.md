@@ -56,7 +56,7 @@ Worked with both HTML and CSS coding languages in this class. Used both to creat
 ✦ Coding Exercises
 
 ### Technology/Coding Projects !*!*
-✦ HTML/CSS: Created a webpage that provided many links to Spotify playlists of songs from different countries, to show my love for music and recommend some of my favorite songs from other countries that others might enjoy as well! :)
+✦ Music-related webpage created with HTML/CSS
 <br>
 
 ✦ JavaScript: Created a simple guessing game, which I named "Corrected Cat," that combines many graphics, loops, selection statements, arrays, sequencing, and so on where users get a couple of seconds to memorize a cat made entirely out of graphics before getting sent to the game screen where users recieve three options of graphics and have to guess the correct ones to draw the cat correctly! After the game is complete, players will see their score, how many of the graphics they guessed correctly, and whether the cat looks as it should!
@@ -74,3 +74,5 @@ Worked with both HTML and CSS coding languages in this class. Used both to creat
 # PROJECTS
 
 ## 001 ✦ [Music Around the World](https://etaizfwrkf-2922669274-a.codehs.me/index.html) Project !*!*
+### About This Project !*!*
+This project was created with two programming languages: HTML and CSS. It is a webpage that I created to show my love for music. It is created using images, links, texts of different sizes and colors, lists, and more. The purpose of this webpage is to introduce music from around the world, and it consists of multiple links to Spotify playlists featuring many songs from specific countries (one playlist includes songs from Thailand, another from South Korea, and so on). I personally really enjoy discovering songs from other countries that I end up loving, and so I used this webpage as an opportunity to allow other people to do the same, as well as learn about what kind of music is popular in other countries, helping them know more about culture, different languages, and so on.
