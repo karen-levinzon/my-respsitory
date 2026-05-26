@@ -93,3 +93,6 @@ The code of the actual body of the webpage. This is where all the links, texts, 
 
 ### Project in Action !*!*
 [Click to See How The Webpage Works !*!*](https://app.screencastify.com/watch/VLmbu3y0flS44divCLbZ?checkOrg=38905c10-ca67-40e4-b1fa-a3501535edf4)
+<hr>
+
+## 002 ✦ ["Corrected Cat"](https://codehs.com/sandbox/karenlevinzon13/new-practice-pt-project-ti) Project !*!*
