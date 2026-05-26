@@ -96,3 +96,5 @@ The code of the actual body of the webpage. This is where all the links, texts, 
 <hr>
 
 ## 002 ✦ ["Corrected Cat"](https://codehs.com/sandbox/karenlevinzon13/new-practice-pt-project-ti/run) Project !*!*
+### About This Project !*!*
+This program was created in JavaScript. It is a simple program, but also the first actual interactive game I have ever created 
