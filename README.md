@@ -69,3 +69,8 @@ Worked with both HTML and CSS coding languages in this class. Used both to creat
 <br>
 <img src="https://github.com/user-attachments/assets/7c6bb958-0c44-401e-9db2-2f9d700fa4ce" width = "350"/>
 
+<hr>
+
+# PROJECTS
+
+## 001 ✦ [Music Around the World](https://etaizfwrkf-2922669274-a.codehs.me/index.html) Project !*!*
