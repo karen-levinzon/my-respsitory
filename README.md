@@ -102,4 +102,7 @@ This program was created in JavaScript. It is a simple program, but it is also t
 ### How the Project Was Created !*!*
 <br>
 This is the PDF of the full code for this program. The list I used is highlighted in yellow, my procedure in blue, and the algorithm within the procedure in green.
+<br>
+<br>
+
 [Click Here to See the Full Code !*!*](https://drive.google.com/file/d/1JwGIdZPCNqftybshCeACjlI8Z-RvtV58/view?usp=sharing)
