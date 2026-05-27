@@ -122,6 +122,13 @@ The following screenshots show my procedure and the algorithm inside it, going i
 <img src="https://github.com/user-attachments/assets/be8fd099-9757-4714-b8c3-9fb455cac44e" width = "350"/>
 <img src="https://github.com/user-attachments/assets/b139811a-598e-4ed7-9c97-b85e5201fcd4" width = "350"/>
 <img src="https://github.com/user-attachments/assets/4a3b50d7-11e8-47a3-b7c1-5682660b5a0a" width = "350"/>
+<br>
+<br>
+This is where my procedure is called in my program.
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/d6bd03e3-5e11-41e3-a52f-830b704374d7" width = "350"/>
+
 
 ### Project in Action !*!*
 [Click to See How the Game Works !*!*](https://drive.google.com/file/d/1xfwOitPCC1f3kozjGSYqzE1hikN4rlNa/view?usp=sharing)
@@ -140,3 +147,23 @@ The full code for this program is available as a PDF linked below.
 [Click Here to See the Full Code !*!*](https://drive.google.com/file/d/11DlUsdd7rLHnvS2hLfQQfSxHO8sm42ws/view?usp=sharing)
 <br>
 <br>
+
+This is how one of my multiple procedures is used in my program, going in order.
+<br>
+
+<img src="https://github.com/user-attachments/assets/e8104cc5-a1f4-408f-95e0-d01d622f4da7" width = "350"/>
+<img src="https://github.com/user-attachments/assets/0df0296f-e8be-42e5-a398-fe3a93a8b1eb" width = "350"/>
+<br>
+<br>
+This is where my procedure is called in my program. 
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/dad7777a-9905-4128-af38-744620c67425" width = "350"/>
+<br>
+<br>
+This is one of my multiple lists used in my program, as well as how it is used.
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/35f52196-0959-4ad7-b6bd-0fa2836235ac" width = "350"/>
+<br>
+<img src="https://github.com/user-attachments/assets/7d37654f-fe87-49e6-b264-d2b16822f702" width = "350"/>
