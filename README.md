@@ -165,3 +165,6 @@ This is one of my multiple lists used in my program, as well as how it is used.
 <img src="https://github.com/user-attachments/assets/35f52196-0959-4ad7-b6bd-0fa2836235ac" width = "350"/>
 <br>
 <img src="https://github.com/user-attachments/assets/7d37654f-fe87-49e6-b264-d2b16822f702" width = "350"/>
+
+### Project in Action !*!*
+[Click to See How the Game Works !*!*](https://app.screencastify.com/watch/6nrZYxejQjwlMCGMUBpn?checkOrg=38905c10-ca67-40e4-b1fa-a3501535edf4)
