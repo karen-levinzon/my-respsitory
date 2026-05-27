@@ -127,5 +127,5 @@ The following screenshots show my procedure and the algorithm inside it, going i
 [Click to See How the Game Works !*!*](https://drive.google.com/file/d/1xfwOitPCC1f3kozjGSYqzE1hikN4rlNa/view?usp=sharing)
 <hr>
 
-## 003 ✦ ["Guess the Song"](https://codehs.com/sandbox/karenlevinzon13/new-practice-pt-project-ti/run]) Project !*!*
+## 003 ✦ ["Guess the Song"](https://codehs.com/sandbox/karenlevinzon13/new-practice-pt-project-ti/run) Project !*!*
 ### About This Project !*!*
