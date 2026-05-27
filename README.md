@@ -99,8 +99,28 @@ This program was created in JavaScript. It is a simple program, but it is also t
 
 ### How the Project Was Created !*!*
 <br>
-The PDF of the full code for this program is linked below. The first of the many lists I used is highlighted in yellow, my procedure in blue, and the algorithm within the procedure in green.
+The full code for this program is available as a PDF linked below. The first of the many lists I used is highlighted in yellow, my procedure in blue, and the algorithm within the procedure in green.
 <br>
 <br>
 
 [Click Here to See the Full Code !*!*](https://drive.google.com/file/d/1JwGIdZPCNqftybshCeACjlI8Z-RvtV58/view?usp=sharing)
+<br>
+<br>
+
+This is how the highlighted list in the PDF is used in my program.
+<br>
+
+<img src="https://github.com/user-attachments/assets/c94d5f62-b6c7-4cc2-ac53-8059e4c41704" width = "450"/>
+<br>
+<br>
+The following screenshots show my procedure and the algorithm inside it, going in order.
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/54d5fe40-4760-43f8-9ad5-2b7b1c26dbff" width = "350"/>
+<img src="https://github.com/user-attachments/assets/63ff3c93-8463-4604-8340-cba8058d6442" width = "350"/>
+<img src="https://github.com/user-attachments/assets/cf9cd886-0ee2-4a67-adfe-5e9c449abb8e" width = "350"/>
+<img src="https://github.com/user-attachments/assets/be8fd099-9757-4714-b8c3-9fb455cac44e" width = "350"/>
+<img src="https://github.com/user-attachments/assets/b139811a-598e-4ed7-9c97-b85e5201fcd4" width = "350"/>
+<img src="https://github.com/user-attachments/assets/4a3b50d7-11e8-47a3-b7c1-5682660b5a0a" width = "350"/>
+
+### Project in Action !*!*
