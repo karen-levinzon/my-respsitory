@@ -90,7 +90,7 @@ The code of the actual body of the webpage. This is where all the links, texts, 
 <img src="https://github.com/user-attachments/assets/ff2c9097-7e6c-47ff-ae63-ef2cc1acd187" width = "450"/>
 
 ### Project in Action !*!*
-[Click to See How The Webpage Works !*!*](https://app.screencastify.com/watch/VLmbu3y0flS44divCLbZ?checkOrg=38905c10-ca67-40e4-b1fa-a3501535edf4)
+[Click to See How the Webpage Works !*!*](https://app.screencastify.com/watch/VLmbu3y0flS44divCLbZ?checkOrg=38905c10-ca67-40e4-b1fa-a3501535edf4)
 <hr>
 
 ## 002 ✦ ["Corrected Cat"](https://codehs.com/sandbox/karenlevinzon13/new-practice-pt-project-ti/run) Project !*!*
@@ -124,3 +124,4 @@ The following screenshots show my procedure and the algorithm inside it, going i
 <img src="https://github.com/user-attachments/assets/4a3b50d7-11e8-47a3-b7c1-5682660b5a0a" width = "350"/>
 
 ### Project in Action !*!*
+[Click to See How the Game Works !*!*](https://drive.google.com/file/d/1xfwOitPCC1f3kozjGSYqzE1hikN4rlNa/view?usp=sharing)
